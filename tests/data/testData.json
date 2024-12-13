@@ -1,0 +1,44 @@
+[
+    {
+        "testCase": "Test Case 1: Verify Implement Task and tags",
+        "sectionName": "Web Application Main web",
+        "columnText": "To Do (2)Implement user",
+        "taskText": "Implement user authenticationAdd login and signup functionalityFeatureHigh",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "testCase": "Test Case 2: Verify Fix Navigation Task and tags",
+        "sectionName": "Web Application Main web",
+        "columnText": "To Do (2)Implement user",
+        "taskText": "Fix navigation bugMenu does",
+        "tags": [{ "text": "Bug", "exact": true }]
+    },
+    {
+        "testCase": "Test Case 3: Verify Design System and tags",
+        "sectionName": "Web Application Main web",
+        "columnText": "In Progress (1)Design system",
+        "taskText": "Design system updatesUpdate",
+        "tags": [{ "text": "Design", "exact": true }]
+    },
+    {
+        "testCase": "Test Case 4: Verify Push Notification and tags",
+        "sectionName": "Mobile Application Native",
+        "columnText": "To Do (1)Push notification",
+        "taskText": "Push notification systemImplement push notifications for iOS and",
+        "tags": [{"text": "Feature", "exact": true}]
+    },
+    {
+        "testCase": "Test Case 5: Verify Offline Mode and tags",
+        "sectionName": "Mobile Application Native",
+        "columnText": "In Progress (1)Offline",
+        "taskText": "Offline modeEnable offline",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "testCase": "Test Case 6: Verify App Icon and tags",
+        "sectionName": "Mobile Application Native",
+        "columnText": "Done (1)App icon designCreate",
+        "taskText": "App icon designCreate app",
+        "tags": [{ "text": "Design", "exact": true }]
+    }
+]
